@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+/* #light{
+  background-color: white;
+}
+
+#dark{
+  background-color: black;
+}
+
+#light.About{
+  background-color: white;
+}
+
+#dark.About{
+  background-color: black;
+} */
+
+
+.button{
+  height: 20px;
+  width: 500px;
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  margin-left: 250px;
+}
+
+.button-GoogleLoginButton {
+  padding: 0 275px 30px 275px;
+}   
+
+.left{
+  padding: 0 0 0 277px;
+}
